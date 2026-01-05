@@ -2,7 +2,7 @@
 
 # DIY ECG Amplifier Board (Arduino Uno Shield)
 
-This repository contains the KiCad design files for a **DIY ECG (Electrocardiogram) amplifier board**.
+This repository contains the KiCad (v9) design files for a **DIY ECG (Electrocardiogram) amplifier board**.
 The board is designed as an **Arduino Uno–compatible shield** and is intended for **educational, experimental, and research use**.
 
 ## Overview
@@ -38,8 +38,6 @@ This hardware design is licensed under the
 
 You are free to study, modify, and manufacture the design for **private, educational, and research purposes**.
 **Commercial use, sale, or mass production is not permitted** without explicit permission.
-
-If you are interested in a **commercial license**, please contact the author.
 
 ## Author
 Jens Bongartz - info@diy-ecg.org
